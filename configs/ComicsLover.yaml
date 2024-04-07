@@ -1,0 +1,12 @@
+api_hash: 28ef791f8efa974015eaae5bfa3e5168
+api_id: 330072
+chat_id: comicslover1
+download_dir: /local-media/Entertainment/Comics/Library/ungroupped/
+downloaded_ids: []
+file_formats:
+  document:
+  - all
+ids_to_retry: []
+last_read_message_id: 0
+media_types:
+- document

@@ -1,0 +1,11 @@
+api_hash: 28ef791f8efa974015eaae5bfa3e5168
+api_id: 330072
+chat_id: raj_comics_unofficial
+download_dir: /local-media/Entertainment/Comics/Library/ungroupped
+file_formats:
+  document:
+  - all
+ids_to_retry: []
+last_read_message_id: 9186
+media_types:
+- document
